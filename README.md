@@ -1,6 +1,6 @@
 # NEA
 
-# Check the document above for the project report
+# Check the document above labelled for the project report
 # https://www.youtube.com/watch?v=mEOLjW4YuOE
 # Make sure line 16,49,57,62,66 in the RUN.py file are using the right filepath this will change becuase its on a different computer.
 # make sure line 609, 613, 618, 636 in the routes.py file are using the right filepath this will change becuase its on a different computer.
