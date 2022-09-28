@@ -5,7 +5,7 @@
 # Make sure line 16,49,57,62,66 in the RUN.py file are using the right filepath this will change becuase its on a different computer.
 # make sure line 609, 613, 618, 636 in the routes.py file are using the right filepath this will change becuase its on a different computer.
 # Run the RUN.py file which is situated in the Flask2 file.
-# Once movies are added into your watch later list the program must be re ran so that the movies can be added into the databse which will then allow you to view your reccomneded movies.
+# Once movies are added into your watch later list the program must be re ran so that the movies can be added into the database which will then allow you to view your reccomneded movies.
 # The imports that must be made
 # absl-py==0.10.0
 # altgraph==0.16.1
@@ -82,5 +82,4 @@
 # WTForms==2.3.1
 # zc.lockfile==2.0
 # zipp==3.4.0
-# Run the RUN.py file which is situated in the Flask2 file.
-# Once movies are added into your watch later list the program must be re ran so that the movies can be added into the databse which will then allow you to view your reccomneded movies.
+# Enjoy!!
